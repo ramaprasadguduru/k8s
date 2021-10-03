@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: srikavyapendiala/reactjs-nodejs-postgres_frontend
+          image: 9989929282/frontend
           stdin: true
           ports:
             - containerPort: 3000
