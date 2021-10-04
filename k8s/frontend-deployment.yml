@@ -19,6 +19,6 @@ spec:
             - containerPort: 3000
           env:
             - name: CONTAINER_NAME
-              value: http://54.87.48.171:8080
+              value: http://localhost:8080
 
 
