@@ -19,6 +19,6 @@ spec:
             - containerPort: 3000
           env:
             - name: CONTAINER_NAME
-              value: http://backend-service:8081
+              value: http://backend-service:8080
 
 
